@@ -1,4 +1,4 @@
-# ⚡ Ryo Recommender System + Unsupervised Learning ⚡
+# Ryo Recommender System + Unsupervised Learning ⚡
 
 In the age of endless choices, **Ryo’s Recommender System** acts as your **AI-powered compass** 🧭. Designed to analyze user behavior, preferences, and interactions, it doesn’t just recommend — it **predicts what you’ll love before you even know it**.
 
